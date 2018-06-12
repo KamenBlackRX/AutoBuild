@@ -1,0 +1,11 @@
+#Ignore ENV 
+env/
+#Build and other directory
+build/
+dist/
+
+#File Formats
+*.egg-info
+
+#vscode info
+*.code-workspace
