@@ -1,0 +1,3 @@
+[submodule "ide/glade"]
+	path = ide/glade
+	url = https://gitlab.gnome.org/GNOME/glade.git
