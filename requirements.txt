@@ -1,2 +1,4 @@
 # Hard deps
 PyGTK
+PySide2
+clint

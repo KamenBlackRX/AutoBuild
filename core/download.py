@@ -11,3 +11,6 @@ class DownloadManager(object):
     
     def removeAllqueuedDownloas(self,InstanceQueue):
         pass
+
+    def downloadList(self, args)
+        pass
