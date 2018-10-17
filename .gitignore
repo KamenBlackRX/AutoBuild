@@ -9,3 +9,7 @@ dist/
 
 #vscode info
 *.code-workspace
+
+#vscode config
+.vscode
+.vscode/*
