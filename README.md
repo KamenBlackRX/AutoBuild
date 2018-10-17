@@ -29,3 +29,6 @@ ____
 
 autobuild has a installer script called *install.sh* or if you are using windows you can execute *install.exe*, when you execute the script, the same will detect your Host OS and will try install all dependencies automatic. If this method fails you can isntall all depencies manualy!
 
+## Contribuition
+
+This project is open for anyone to contribute. just make the PR and will be accepted after tests!
